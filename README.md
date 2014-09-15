@@ -2,7 +2,7 @@ Juce-and-OSC
 ============
 
 
-The aim of this project is to combine JUCE (www.juce.com) and oscpack library (www.audiomulch.com/~rossb/code/oscpack/). Currently the program does receive values via osc and prints them to debugger console.
+The aim of this project is to combine JUCE (www.juce.com) and oscpack library (www.audiomulch.com/~rossb/code/oscpack/). Currently the program receive values via osc and prints them on a debugger console.
 
 Currenly this repository contains source files. Some prerequisities before compiling:
 
