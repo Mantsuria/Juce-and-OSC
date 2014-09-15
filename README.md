@@ -24,3 +24,7 @@ Currenly this repository contains source files. Some prerequisities before compi
 
 (Note: Introjucer restores Run Time Library settings when saved. Therefore, make sure to build all external libraries with same Run Time options. Currently Juce uses Multi-Threaded Debug -option.
 
+TODO:
+
+- add printing values to label
+
